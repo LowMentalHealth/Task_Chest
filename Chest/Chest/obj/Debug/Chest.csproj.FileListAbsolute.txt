@@ -1,0 +1,8 @@
+E:\программирование\C#\Chest\Chest\bin\Debug\Chest.exe.config
+E:\программирование\C#\Chest\Chest\bin\Debug\Chest.exe
+E:\программирование\C#\Chest\Chest\bin\Debug\Chest.pdb
+E:\программирование\C#\Chest\Chest\obj\Debug\Chest.csproj.AssemblyReference.cache
+E:\программирование\C#\Chest\Chest\obj\Debug\Chest.csproj.SuggestedBindingRedirects.cache
+E:\программирование\C#\Chest\Chest\obj\Debug\Chest.csproj.CoreCompileInputs.cache
+E:\программирование\C#\Chest\Chest\obj\Debug\Chest.exe
+E:\программирование\C#\Chest\Chest\obj\Debug\Chest.pdb
